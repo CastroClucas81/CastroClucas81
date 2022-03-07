@@ -7,10 +7,9 @@ CastroClucas81/CastroClucas81 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-<h4>Lucas Cardoso Mota</h4>
+<h4>Lucas Cardoso de Castro</h4>
 
-[![Linkedin Badge](https://img.shields.io/badge/-EmerssonCardim-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emersson-cardim/)](https://www.linkedin.com/in/emersson-cardim/) 
-[![Gmail Badge](https://img.shields.io/badge/-emerssonmota123@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emerssonmota123@gmail.com)](mailto:emerssonmota123@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-sky.lucas2013@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sky.lucas2013@gmail.com)](mailto:sky.lucas2013@gmail.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CastroClucas81&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=CastroClucas81&theme=radical&hide=html,css,blade)](https://github.com/anuraghazra/github-readme-stats)
