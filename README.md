@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <h4>Lucas Cardoso de Castro</h4>
 
-[![Gmail Badge](https://img.shields.io/badge/-sky.lucas2013@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sky.lucas2013@gmail.com)](mailto:sky.lucas2013@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-contato.lucascardoso@yahoo.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.lucascardoso@yahoo.com)](mailto:contato.lucascardoso@yahoo.com)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CastroClucas81&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=CastroClucas81&theme=radical&hide=html,css,blade)](https://github.com/anuraghazra/github-readme-stats)
