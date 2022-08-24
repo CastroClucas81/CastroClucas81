@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lucas Cardoso
 - 👀 I love mobile programming and microservices
-- 🌱 I have extensive experience in Java, Dart, Javascript, PHP and Python
+- 🌱 I have extensive experience in Java, Dart, Javascript and PHP 
 
 <!---
 CastroClucas81/CastroClucas81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
